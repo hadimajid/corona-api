@@ -13,7 +13,7 @@ if ($_SERVER['HTTP_HOST'] === 'localhost') {
 } else if ($_SERVER['HTTP_HOST'] === 'corona-php-api.herokuapp.com') {
     $host = 'shinycar24.de';
     $baseUrl = 'https://' . $host;
-    $con = mysqli_connect("localhost", "d03807a4", "admin20", "d03807a4");
+    $con = mysqli_connect($host, "d03807a4", "admin20", "d03807a4");
     $serverName = 'w01c3226.kasserver.com';
 } else {
 
