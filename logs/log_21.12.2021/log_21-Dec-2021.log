@@ -1,0 +1,48 @@
+shinycar24.de 12/21/2021 14:04:14 : pdf.php Fetch data 1/2
+shinycar24.de 12/21/2021 14:04:14 : Successfully data fetch from DB 2/2
+shinycar24.de 12/21/2021 14:04:14 : pdf.php Create PDF 1/3
+shinycar24.de 12/21/2021 14:04:14 : Successfully created PDF report for customer 14 2/3Path: reports/report_sOw26C_128.pdf 3/3
+shinycar24.de 12/21/2021 14:04:14 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/21/2021 14:04:14 : Successfully update db  2/2
+shinycar24.de 12/21/2021 14:04:14 : email.php Sent Email to testcenter 1/1
+shinycar24.de 12/21/2021 14:04:14 : email.php Sent Email to customer 1/1
+shinycar24.de 12/21/2021 14:24:27 : pdf.php Fetch data 1/2
+shinycar24.de 12/21/2021 14:24:27 : Successfully data fetch from DB 2/2
+shinycar24.de 12/21/2021 14:24:27 : pdf.php Create PDF 1/3
+shinycar24.de 12/21/2021 14:24:27 : Successfully created PDF report for customer 14 2/3Path: reports/report_zHl5RZ_128.pdf 3/3
+shinycar24.de 12/21/2021 14:24:27 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/21/2021 14:24:27 : Successfully update db  2/2
+shinycar24.de 12/21/2021 14:24:27 : email.php Sent Email to testcenter 1/1
+shinycar24.de 12/21/2021 14:24:27 : email.php Sent Email to customer 1/1
+shinycar24.de 12/21/2021 19:17:10 : pdf.php Fetch data 1/2
+shinycar24.de 12/21/2021 19:17:10 : Successfully data fetch from DB 2/2
+shinycar24.de 12/21/2021 19:17:10 : pdf.php Create PDF 1/3
+shinycar24.de 12/21/2021 19:17:10 : Successfully created PDF report for customer 14 2/3Path: reports/report_SsYrn6_103.pdf 3/3
+shinycar24.de 12/21/2021 19:17:10 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/21/2021 19:17:10 : Successfully update db  2/2
+shinycar24.de 12/21/2021 19:17:10 : email.php Sent Email to testcenter 1/1
+shinycar24.de 12/21/2021 19:17:11 : email.php Sent Email to customer 1/1
+shinycar24.de 12/21/2021 19:39:59 : pdf.php Fetch data 1/2
+shinycar24.de 12/21/2021 19:39:59 : Successfully data fetch from DB 2/2
+shinycar24.de 12/21/2021 19:39:59 : pdf.php Create PDF 1/3
+shinycar24.de 12/21/2021 19:39:59 : Successfully created PDF report for customer 14 2/3Path: reports/report_O5sq6r_103.pdf 3/3
+shinycar24.de 12/21/2021 19:39:59 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/21/2021 19:39:59 : Successfully update db  2/2
+shinycar24.de 12/21/2021 19:39:59 : email.php Sent Email to testcenter 1/1
+shinycar24.de 12/21/2021 19:39:59 : email.php Sent Email to customer 103 1/1
+shinycar24.de 12/21/2021 19:44:20 : pdf.php Fetch data 1/2
+shinycar24.de 12/21/2021 19:44:20 : Successfully data fetch from DB 2/2
+shinycar24.de 12/21/2021 19:44:20 : pdf.php Create PDF 1/3
+shinycar24.de 12/21/2021 19:44:20 : Successfully created PDF report for customer 14 2/3Path: reports/report_nSoDlx_103.pdf 3/3
+shinycar24.de 12/21/2021 19:44:20 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/21/2021 19:44:20 : Successfully update db  2/2
+shinycar24.de 12/21/2021 19:44:20 : email.php Sent Email to testcenter 1/1
+shinycar24.de 12/21/2021 19:44:20 : email.php Sent Email to customer 103 1/1
+shinycar24.de 12/21/2021 19:55:21 : pdf.php Fetch data 1/2
+shinycar24.de 12/21/2021 19:55:21 : Successfully data fetch from DB 2/2
+shinycar24.de 12/21/2021 19:55:21 : pdf.php Create PDF 1/3
+shinycar24.de 12/21/2021 19:55:21 : Successfully created PDF report for customer 14 2/3Path: reports/report_mOunl0_103.pdf 3/3
+shinycar24.de 12/21/2021 19:55:21 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/21/2021 19:55:21 : Successfully update db  2/2
+shinycar24.de 12/21/2021 19:55:21 : email.php Sent Email to testcenter 1/1
+shinycar24.de 12/21/2021 19:55:21 : email.php Sent Email for Test 103 1/1

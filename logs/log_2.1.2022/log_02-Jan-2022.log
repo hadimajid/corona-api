@@ -1,0 +1,24 @@
+shinycar24.de 01/02/2022 15:43:47 : pdf.php Fetch data 1/2
+shinycar24.de 01/02/2022 15:43:47 : Successfully data fetch from DB 2/2
+shinycar24.de 01/02/2022 15:43:47 : pdf.php Create PDF 1/3
+shinycar24.de 01/02/2022 15:43:47 : Successfully created PDF report for customer 14 2/3Path: reports/report_pwn4Wh_183.pdf 3/3
+shinycar24.de 01/02/2022 15:43:47 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 01/02/2022 15:43:47 : Successfully update db  2/2
+shinycar24.de 01/02/2022 15:43:47 : email.php Sent Email to: jan.hiweno.lorenz0@googlemail.com 1/1
+shinycar24.de 01/02/2022 15:43:47 : email.php Sent Email to: jan.hiweno.lorenz0@googlemail.com 1/1
+shinycar24.de 01/02/2022 18:31:12 : pdf.php Fetch data 1/2
+shinycar24.de 01/02/2022 18:31:12 : Successfully data fetch from DB 2/2
+shinycar24.de 01/02/2022 18:31:12 : pdf.php Create PDF 1/3
+shinycar24.de 01/02/2022 18:31:12 : Successfully created PDF report for customer 23 2/3Path: reports/report_WrxnPs_194.pdf 3/3
+shinycar24.de 01/02/2022 18:31:12 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 01/02/2022 18:31:12 : Successfully update db  2/2
+shinycar24.de 01/02/2022 18:31:12 : email.php Sent Email to: jan.hiweno.lorenz0@googlemail.com 1/1
+shinycar24.de 01/02/2022 18:31:12 : email.php Sent Email to: katjabehrmann3@web.de 1/1
+shinycar24.de 01/02/2022 18:31:26 : pdf.php Fetch data 1/2
+shinycar24.de 01/02/2022 18:31:26 : Successfully data fetch from DB 2/2
+shinycar24.de 01/02/2022 18:31:26 : pdf.php Create PDF 1/3
+shinycar24.de 01/02/2022 18:31:26 : Successfully created PDF report for customer 23 2/3Path: reports/report_413oR5_194.pdf 3/3
+shinycar24.de 01/02/2022 18:31:26 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 01/02/2022 18:31:26 : Successfully update db  2/2
+shinycar24.de 01/02/2022 18:31:26 : email.php Sent Email to: jan.hiweno.lorenz0@googlemail.com 1/1
+shinycar24.de 01/02/2022 18:31:26 : email.php Sent Email to: katjabehrmann3@web.de 1/1

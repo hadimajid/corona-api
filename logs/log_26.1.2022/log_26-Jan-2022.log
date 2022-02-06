@@ -1,0 +1,104 @@
+localhost 01/26/2022 17:40:41 : pdf.php Fetch data 1/2
+localhost 01/26/2022 17:40:41 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 17:40:42 : pdf.php Create PDF 1/3
+localhost 01/26/2022 17:40:42 : Successfully created PDF report for customer 19 2/3Path: reports/report_ED3Nxy_98.pdf 3/3
+localhost 01/26/2022 17:40:42 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 17:40:42 : Successfully update db  2/2
+localhost 01/26/2022 17:42:51 : pdf.php Fetch data 1/2
+localhost 01/26/2022 17:42:51 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 17:42:52 : pdf.php Create PDF 1/3
+localhost 01/26/2022 17:42:52 : Successfully created PDF report for customer 19 2/3Path: reports/report_8V2THT_98.pdf 3/3
+localhost 01/26/2022 17:42:52 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 17:42:52 : Successfully update db  2/2
+localhost 01/26/2022 18:18:30 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:18:30 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:18:31 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:18:31 : Successfully created PDF report for customer 19 2/3Path: reports/report_pZh1cA_98.pdf 3/3
+localhost 01/26/2022 18:18:32 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:18:32 : Successfully update db  2/2
+localhost 01/26/2022 18:27:43 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:27:43 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:27:43 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:27:43 : Successfully created PDF report for customer 19 2/3Path: reports/report_WHWkjZ_98.pdf 3/3
+localhost 01/26/2022 18:27:43 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:27:43 : Successfully update db  2/2
+localhost 01/26/2022 18:29:00 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:29:00 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:29:00 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:29:00 : Successfully created PDF report for customer 32 2/3Path: reports/report_elfDNa_139.pdf 3/3
+localhost 01/26/2022 18:29:00 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:29:00 : Successfully update db  2/2
+localhost 01/26/2022 18:30:17 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:30:17 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:30:17 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:30:17 : Successfully created PDF report for customer 32 2/3Path: reports/report_sJHsyL_140.pdf 3/3
+localhost 01/26/2022 18:30:17 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:30:17 : Successfully update db  2/2
+localhost 01/26/2022 18:33:54 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:33:54 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:33:55 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:33:55 : Successfully created PDF report for customer 19 2/3Path: reports/report_0Tju2P_98.pdf 3/3
+localhost 01/26/2022 18:33:56 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:33:56 : Successfully update db  2/2
+localhost 01/26/2022 18:36:32 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:36:32 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:36:33 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:36:33 : Successfully created PDF report for customer 19 2/3Path: reports/report_HWxvmu_98.pdf 3/3
+localhost 01/26/2022 18:36:33 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:36:33 : Successfully update db  2/2
+localhost 01/26/2022 18:38:20 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:38:20 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:38:20 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:38:20 : Successfully created PDF report for customer 19 2/3Path: reports/report_keaxG7_98.pdf 3/3
+localhost 01/26/2022 18:38:45 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:38:45 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:38:45 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:38:45 : Successfully created PDF report for customer 19 2/3Path: reports/report_1xhrVh_98.pdf 3/3
+localhost 01/26/2022 18:43:47 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:43:47 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:43:47 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:43:47 : Successfully created PDF report for customer 19 2/3Path: reports/report_AUucok_98.pdf 3/3
+localhost 01/26/2022 18:43:48 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:43:48 : Successfully update db  2/2
+localhost 01/26/2022 18:48:24 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:48:24 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:48:24 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:48:24 : Successfully created PDF report for customer 19 2/3Path: reports/report_0cdYbV_98.pdf 3/3
+localhost 01/26/2022 18:48:24 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:48:24 : Successfully update db  2/2
+localhost 01/26/2022 18:49:33 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:49:33 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:49:33 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:49:33 : Successfully created PDF report for customer 19 2/3Path: reports/report_LhbJr0_98.pdf 3/3
+localhost 01/26/2022 18:49:33 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:49:33 : Successfully update db  2/2
+localhost 01/26/2022 18:50:07 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:50:07 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:50:08 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:50:08 : Successfully created PDF report for customer 19 2/3Path: reports/report_TBlDkD_98.pdf 3/3
+localhost 01/26/2022 18:50:08 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:50:08 : Successfully update db  2/2
+localhost 01/26/2022 18:55:29 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:55:29 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:55:30 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:55:30 : Successfully created PDF report for customer 19 2/3Path: reports/report_VVdIbc_98.pdf 3/3
+localhost 01/26/2022 18:55:30 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:55:30 : Successfully update db  2/2
+localhost 01/26/2022 18:56:35 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:56:35 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:56:35 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:56:35 : Successfully created PDF report for customer 19 2/3Path: reports/report_paqL37_98.pdf 3/3
+localhost 01/26/2022 18:56:35 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:56:35 : Successfully update db  2/2
+localhost 01/26/2022 18:57:32 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:57:32 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:57:32 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:57:32 : Successfully created PDF report for customer 19 2/3Path: reports/report_hdiAca_98.pdf 3/3
+localhost 01/26/2022 18:57:32 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:57:32 : Successfully update db  2/2
+localhost 01/26/2022 18:59:25 : pdf.php Fetch data 1/2
+localhost 01/26/2022 18:59:25 : Successfully data fetch from DB 2/2
+localhost 01/26/2022 18:59:25 : pdf.php Create PDF 1/3
+localhost 01/26/2022 18:59:25 : Successfully created PDF report for customer 19 2/3Path: reports/report_5jDdV5_98.pdf 3/3
+localhost 01/26/2022 18:59:25 : pdf.php Update PDF URL in Database 1/2
+localhost 01/26/2022 18:59:25 : Successfully update db  2/2

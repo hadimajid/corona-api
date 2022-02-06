@@ -1,0 +1,8 @@
+shinycar24.de 12/25/2021 15:48:26 : pdf.php Fetch data 1/2
+shinycar24.de 12/25/2021 15:48:26 : Successfully data fetch from DB 2/2
+shinycar24.de 12/25/2021 15:48:26 : pdf.php Create PDF 1/3
+shinycar24.de 12/25/2021 15:48:26 : Successfully created PDF report for customer 14 2/3Path: reports/report_cSks6x_174.pdf 3/3
+shinycar24.de 12/25/2021 15:48:26 : pdf.php Update PDF URL in Database 1/2
+shinycar24.de 12/25/2021 15:48:26 : Successfully update db  2/2
+shinycar24.de 12/25/2021 15:48:26 : email.php Sent Email to: jan.hiweno.lorenz0@googlemail.com 1/1
+shinycar24.de 12/25/2021 15:48:26 : email.php Sent Email to: jan.hiweno.lorenz0@googlemail.com 1/1
