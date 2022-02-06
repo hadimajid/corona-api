@@ -97,6 +97,7 @@ function sendEmail($subject, $to, $file_path, $msg) {
     catch(Exception $e) {
         //wh_log('email.php Sent Email failed to customer ' . $to . ' 1/2');
         //wh_log("Mailer Error: {$mail->ErrorInfo} 2/2");
+        var_dump($e);
         return false;
     }
 }
