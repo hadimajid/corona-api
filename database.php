@@ -1,9 +1,5 @@
 <?php
 
-
-var_dump($_SERVER);
-exit;
-
 if ($_SERVER['HTTP_HOST'] === 'localhost') {
     $host = 'shinycar24.de';
     $baseUrl = 'https://' . $host;
@@ -14,7 +10,7 @@ if ($_SERVER['HTTP_HOST'] === 'localhost') {
     $baseUrl = 'https://' . $host;
     $con = mysqli_connect("localhost", "d03807a4", "admin20", "d03807a4");
     $serverName = 'w01c3226.kasserver.com';
-} else if ($_SERVER['HTTP_HOST'] === 'corona-app-php.herokuapp.com') {
+} else if ($_SERVER['HTTP_HOST'] === 'corona-php-api.herokuapp.com') {
     $host = $_SERVER['HTTP_HOST'];
     $baseUrl = 'https://' . $host;
     $con = mysqli_connect("localhost", "d03807a4", "admin20", "d03807a4");
