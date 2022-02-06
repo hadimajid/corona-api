@@ -23,6 +23,8 @@ if ($_SERVER['HTTP_HOST'] === 'localhost') {
 	$serverName = 'w01c831e.kasserver.com';
 
 }
+var_dump($_SERVER);
+exit;
 
 
 $secret_key = "COV_SCHNELLTEST";
