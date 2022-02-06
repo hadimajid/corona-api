@@ -149,12 +149,12 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
                             $subject_customer = "Corona Schnelltest Ergebnis";
                             $msg_customer = emailMsgForCustomer($fetch_customer[1],$fetch_customer[2]);
                             if(isset($data['sendEmail']) && $data['sendEmail']){
-								try{
 									$statusEmail = sendEmail($subject_customer, $fetch_customer[8], $file_path, $msg_customer);
-									$response['email']="Email successfully sent.";
-								}catch(\Exception $ex){
-									$response['email']="Email sending failed.";
-								}
+									if($statusEmail){
+										$response['email']="Email successfully sent.";
+									}else{
+										$response['email']="Email sending failed.";										
+									}
                             }
                         }
 

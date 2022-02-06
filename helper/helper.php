@@ -67,10 +67,11 @@ function sendEmail($subject, $to, $file_path, $msg) {
         $mail->isSMTP();
         $mail->CharSet = 'UTF-8';
         $mail->Encoding = 'base64'; //Send using SMTP
-        $mail->Host = 'be-checkpoint-schnelltest.com'; //Set the SMTP server to send through
-        // $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        // $mail->Username   = "";                     			  //SMTP username
-        // $mail->Password   = '';                             //SMTP password
+        // $mail->Host = 'be-checkpoint-schnelltest.com'; //Set the SMTP server to send through
+        $mail->Host = 'smtp.gmail.com'; //Set the SMTP server to send through
+        $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+        $mail->Username   = "hadimajidtestacc@gmail.com";                     			  //SMTP username
+        $mail->Password   = 'haditestacc1212';                             //SMTP password
         $mail->SMTPSecure = 'tls'; //Enable implicit TLS encryption
         $mail->Port = 587; //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
         //Recipients
